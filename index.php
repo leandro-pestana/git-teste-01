@@ -17,5 +17,8 @@
     <h2>Teste title 2</h2>
     <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Fuga impedit, nostrum aliquam nesciunt culpa voluptatem earum, facilis itaque in corrupti nisi! Suscipit perferendis corrupti ullam ab optio pariatur, culpa ex.</p>
 
+    <footer>
+        <p>Footer</p>
+    </footer>
 </body>
 </html>
